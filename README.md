@@ -1,4 +1,4 @@
-## Hi there 👋
+## 이직 가즈아! 👋
 
 <!--
 **goldbuz17/goldbuz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
